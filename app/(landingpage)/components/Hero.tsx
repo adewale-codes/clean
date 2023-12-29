@@ -8,7 +8,7 @@ const Hero = () => {
                 <p className='text-primary-700 font-semibold text-xl text-center'>Professional Cleaning Service</p>
             </div>
             <div className='flex justify-center items-center mt-5'>
-                <p className='font-bold md:max-w-[80%] max-w-[90%] mb-5 md:text-6xl text-5xl text-center font-heading font-bold'>Book us and get a lifetime experience</p>
+                <p className='font-bold md:max-w-[80%] max-w-[90%] mb-5 md:text-6xl text-5xl text-center font-heading font-bold'>Book us and get a one in a lifetime experience</p>
             </div>
             <div className='flex justify-center items-center mt-5'>
                 <p className='text-black text-base font-light md:text-center md:max-w-[50%] max-w-[90%] mb-12 md:text-center'>Clean: Your All-In-One Solution cleaning service in the UK. Best among the rest.!</p>
