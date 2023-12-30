@@ -17,7 +17,7 @@ const Services = () => {
                     <button className='bg-primary-700 text-white h-12 w-36 font-semibold rounded-lg'>See more</button>
                 </div>
             </div>
-            <div className='flex md:flex-row flex-col justify-around items-start pt-5'>
+            <div className='flex md:flex-row flex-col justify-around items-center md:items-start pt-5'>
                 <div className='p-5'>
                     <ul>
                         <li>
@@ -68,7 +68,7 @@ const Services = () => {
                 </div>
                 
             </div>
-            <div className='flex md:flex-row flex-col justify-around items-start pt-5'>
+            <div className='flex md:flex-row flex-col justify-around items-center md:items-start pt-5'>
                 <div className='p-5'>
                     <ul>
                         <li>
