@@ -24,7 +24,7 @@ const Services = () => {
                             <div className='h-1/2 bg-white rounded-lg w-64 p-5 drop-shadow'>
                                 <Image src={first} width={50} height={50} alt='home-icon' />
                                 <div className='text-secondary-500 font-bold text-xl mt-6'>Recurring Cleaning</div>
-                                <div className='text-secondary-700 mt-4'>We are taking care of cleaning surfaces on a regular basis so that they don't get overwhelmingly dirty.</div>
+                                <div className='text-secondary-700 mt-4'>We are taking care of cleaning surfaces on a regular basis so that they do not get overwhelmingly dirty.</div>
                                 <div className='mt-6 text-primary-700 underline-offset-8'>Learn More</div>
                             </div>
                         </li>
