@@ -1,8 +1,16 @@
 import React from 'react'
+import Image from "next/image"
 
 const Hero = () => {
   return (
     <div className='h-1/2 w-full flex flex-col justify-center items-center'>
+        <Image
+        src="/assets/cta.svg"
+        alt="CTA Background"
+        width={1450}
+        height={899}
+        className="absolute inset-0 w-full h-full object-cover"
+        />
         <div className='mt-12'>
             <div>
                 <p className='text-primary-700 font-semibold text-xl text-center'>Professional Cleaning Service</p>
