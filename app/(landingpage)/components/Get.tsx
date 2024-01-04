@@ -10,8 +10,8 @@ const Get = () => {
         <div className='flex md:flex-row flex-col justify-center items-center md:justify-around md:items-start md:gap-56'>
             <div className='w-full'>
                 <div>
-                    <div className='flex gap-4'>
-                        <hr  className='mt-2 md:mt-3 border-primary-700 w-10'/>
+                    <div className='flex items-center gap-4'>
+                        <hr  className='border-primary-700 w-10'/>
                         <p className='text-primary-700 text-sm'>GET OUR SERVICE</p>
                     </div>
                 </div>

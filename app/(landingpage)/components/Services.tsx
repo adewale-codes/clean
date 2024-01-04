@@ -6,8 +6,8 @@ const Services = () => {
   return (
     <div className='h-1/2 w-full bg-white pt-10'>
         <div className='p-5 md:px-24 py-10'>
-            <div className='flex gap-4 mb-5'>
-                <hr className='mt-2 md:mt-3 border-primary-700 w-10' />
+            <div className='flex items-center gap-4 mb-5'>
+                <hr className='border-primary-700 w-10' />
                 <p className='text-primary-700 text-sm'>BEST SERVICES</p>
             </div>
             <div className='text-secondary-500 font-bold text-2xl md:text-4xl'>What Our Services</div>
