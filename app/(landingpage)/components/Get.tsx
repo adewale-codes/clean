@@ -1,8 +1,8 @@
 import React from 'react'
 import Image from "next/image"
 import second from "../../assets/second.svg"
-import image1 from "../../assets/image1.svg"
-import image2 from "../../assets/image2.svg"
+import imageone from "../../assets/imageone.svg"
+import imagetwo from "../../assets/imagetwo.svg"
 
 const Get = () => {
   return (
@@ -62,12 +62,12 @@ const Get = () => {
             <div className='w-full'>
                 <div>
                     <div>
-                        <Image src={image1} alt='staff' width={518} height={419} />
+                        <Image src={imageone} alt='staff' width={518} height={419} />
                     </div>
                 </div>
                 <div className='flex gap-8 mt-5 items-center'>
                     <div>
-                        <Image src={image2} alt='staff' width={300} height={300} />
+                        <Image src={imagetwo} alt='staff' width={300} height={300} />
                     </div>
                     <div className='text-secondary-900'><span className='font-bold'>Fringilla scelerisque </span>in imperdiet nisi erat in id. Vel fermentum aenean aenean id ornare vitae sapien nulla auctor. At nisl sem eget orci pretium sed.</div>
                 </div>
