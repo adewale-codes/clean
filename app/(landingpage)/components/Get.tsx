@@ -1,8 +1,8 @@
 import React from 'react'
 import Image from "next/image"
 import second from "../../assets/second.svg"
-import imageone from "../../assets/imageone.svg"
-import imagetwo from "../../assets/imagetwo.svg"
+import imageone from "../../assets/imageone.png"
+import imagetwo from "../../assets/imagetwo.png"
 
 const Get = () => {
   return (
